@@ -1,0 +1,3 @@
+Con esto vamos a empezar a utilizar Git
+
+ahora veremos que pasa 
